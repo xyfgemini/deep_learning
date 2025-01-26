@@ -13,3 +13,5 @@
 [CS324 LLM](https://stanford-cs324.github.io/winter2022/)
 
 [CS294/194-196 Agents](https://rdi.berkeley.edu/llm-agents/f24)
+
+[概率论](https://www.zhangzhenhu.com/index.html)
