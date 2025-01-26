@@ -1,3 +1,6 @@
 [submodule "NTU_ML"]
 	path = NTU_ML
 	url = https://github.com/xyfgemini/NTU_ML
+[submodule "d2l-zh"]
+	path = d2l-zh
+	url = https://github.com/xyfgemini/d2l-zh
