@@ -14,7 +14,6 @@
 	- [CS294/194-196 Agents](https://rdi.berkeley.edu/llm-agents/f24)
 	- [CS231](https://cs231n.stanford.edu/)
 	- [CS224n](https://web.stanford.edu/class/cs224n/index.html)
-	- 
 
 - textbook
 	-   [花书](https://www.deeplearningbook.org/) | [blog](https://zhuanlan.zhihu.com/p/38431213)
